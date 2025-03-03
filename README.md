@@ -30,9 +30,9 @@
 
 ## Pages 
   
-- [Faculty Metrics](RAM-F.md)
+- [Faculty Metrics](research-tracker/RAM-F.md)
 
-- [Research Scholar Metrics](RAM-RA.md)
+- [Research Scholar Metrics](research-tracker/RAM-RA.md)
 
 
 ## Credits
